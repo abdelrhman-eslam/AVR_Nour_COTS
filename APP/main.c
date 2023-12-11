@@ -24,4 +24,5 @@ void main(){
 		MDIO_voidSetPortValue(PORTA,0x00);
 		_delay_ms(500);
 }
+
 }
