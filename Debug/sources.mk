@@ -22,6 +22,7 @@ C_DEPS :=
 SUBDIRS := \
 APP \
 HAL/KPD \
+HAL/LCD \
 HAL/SSD \
 MCAL/DIO \
 
