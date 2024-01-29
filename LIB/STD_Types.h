@@ -21,4 +21,8 @@ typedef double             f64;
 
 typedef void(*pf)(void);
 
+#ifndef NULL
+#define NULL	((void*)0)
+#endif
+
 #endif /* STD_TYPES_H_ */
